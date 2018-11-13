@@ -1,0 +1,14 @@
+{
+  "name": "testheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "mykl",
+  "license": "ISC"
+}
