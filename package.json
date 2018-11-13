@@ -9,6 +9,9 @@
   "dependencies": {
     "express": "*"
   },
+  "engines": {
+    "node": "8.11.4"
+  },
   "author": "mykl",
   "license": "ISC"
 }
